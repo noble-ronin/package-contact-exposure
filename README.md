@@ -106,4 +106,4 @@ one don't need three separate API clients.
 
 - [`package-maintainer-data`](https://github.com/noble-ronin/package-maintainer-data) — which field carries *enforced* ownership (not just contact info) per registry.
 - [`package-hallucination-check`](https://github.com/noble-ronin/package-hallucination-check) — checking whether an AI-recommended package name is real, a decoy, or a cleaned-up attack.
-- Pairs with the dev.to article: [I Found 53 Real Email Addresses Behind One Tiny npm Package](https://dev.to/ronin13/i-found-53-real-email-addresses-behind-one-tiny-npm-package).
+- Pairs with the dev.to article: [I Found 53 Real Email Addresses Behind One Tiny npm Package](https://dev.to/ronin13/i-found-53-real-email-addresses-behind-one-tiny-npm-package-37kf).
